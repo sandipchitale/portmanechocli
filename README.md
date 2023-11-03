@@ -2,12 +2,14 @@
 
 Implements the following commands:
 
-- get to access https://postman-echo.com/get
-- post to access https://postman-echo.com/post
-- put to access https://postman-echo.com/put
-- delete to access https://postman-echo.com/delete
+| Command | Description |
+|---------|-------------|
+| get     | access https://postman-echo.com/get |
+| post    | access https://postman-echo.com/post |
+| put     | access https://postman-echo.com/put |
+| delete  | access https://postman-echo.com/delete |
 
-Uses RestClient.
+Uses RestClient to access https://postman-echo.com
 
 ### Reference Documentation
 For further reference, please consider the following sections:
